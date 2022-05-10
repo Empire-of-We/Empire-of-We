@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Empire-of-We
-- 👀 I’m interested creating a more cyber secure world by educating and empowering people.
+- 👀 I’m interested in creating a more cyber secure world by educating and empowering people.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating, free educational resources for ALL.
 - 📫 How to reach me https://www.linkedin.com/in/kim-possible/ or Twitter @broncobailey303
