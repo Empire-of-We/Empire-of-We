@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating a more cyber secure world by educating and empowering people.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating, free educational resources for ALL.
-- 📫 How to reach me https://www.linkedin.com/in/kim-possible/ or Twitter @broncobailey303
+- 📫 How to reach me https://www.linkedin.com/in/kim-possible
 
 <!---
 Empire-of-We/Empire-of-We is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
